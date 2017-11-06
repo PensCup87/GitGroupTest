@@ -10,7 +10,7 @@ namespace GitGroupTest
     {
         static void Main(string[] args)
         {
-            if (1 < 2)
+            if (1 == 2)
             {
                 Console.WriteLine("Math works");
             }
