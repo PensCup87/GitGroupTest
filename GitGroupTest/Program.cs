@@ -23,7 +23,8 @@ namespace GitGroupTest
             {
                 Console.WriteLine("not ok");
             }
-
+            int remainder = 10 % 4;
+            Console.WriteLine(remainder);
         }
     }
 }
