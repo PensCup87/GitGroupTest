@@ -10,20 +10,14 @@ namespace GitGroupTest
     {
         static void Main(string[] args)
         {
-            if (1 < 2 || 5 > 4)
+
+            for (int i = 0; i > 10; i++)
             {
-                Console.WriteLine("Math works");
-            }
-            string answer = Console.ReadLine();
-            if (answer == "yes")
-            {
-                Console.WriteLine("ok");
-             }
-            else
-            {
-                Console.WriteLine("not ok");
+                Console.WriteLine(i);
+
             }
 
         }
-    }
+    }   
+         
 }
