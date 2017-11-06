@@ -16,7 +16,7 @@ namespace GitGroupTest
             }
             else
             {
-                Console.WriteLine("What are you thinking");
+                Console.WriteLine("What are you thinking?");
             }
         }
     }
